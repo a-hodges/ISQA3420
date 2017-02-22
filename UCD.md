@@ -22,8 +22,8 @@ Stakeholders:
 
 Preconditions:
 
-* Relevant file/package is in the SPDX database
-* Proper package information has been provided
+* Identifying package information has been provided
+* Requested package is in the software database
 
 Main Success Scenario:
 
@@ -60,7 +60,7 @@ Stakeholders:
 
 Preconditions:
 
-* Relevant package has been scanned previously
+* Relevant package has been previously scanned
 * Corporate manager or developer has information to identify the package
 
 Main Success Scenario:
